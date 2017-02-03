@@ -1,0 +1,11 @@
+{
+  "HELLO": "방가",
+  "AGE": "나이",
+  "ADDRESS": "주소",
+  "COUNTRY": "국가",
+  "CITY": "도시",
+  "INFO": "개인 정보입니다.",
+  "BTN_ENGLISH": "영어로 번역",
+  "BTN_SPANISH": "스페인어로 번역",
+  "TITLE": "개인 정보"
+}

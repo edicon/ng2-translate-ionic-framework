@@ -23,4 +23,7 @@ export class HomePage {
     this.translateService.use('en');
   }
 
+  translateToKorean(){
+    this.translateService.use('ko');
+  }
 }
